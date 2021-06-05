@@ -1,6 +1,5 @@
 # Questionario-informatica
-:hugs**HOLA SOY NICOLAS**
-
+🤗**HOLA SOY NICOLAS PABON**
 
 :smirk:*ESTE ES MI CUESTIONARIO INFORMATICO*
 
